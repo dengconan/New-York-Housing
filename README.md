@@ -6,18 +6,16 @@ The New York Housing dataset is provided, features include but not limited to lo
 
 The following files are provided:
 1. analysisData.csv:
-
 The file contains the original data of New York Housing
 •	input: NA
 •	output: NA
-2. predict_new_york_housing.R:
 
+2. predict_new_york_housing.R:
 The file is model building and testing. The Random Forest is selected as the best model. Final outcome is measured by rmse score.
 •	input: analysisData.csv
 •	output: scoringData.csv
 
 3. report.pdf:
-
 The file contains the detailed report of the modeling, including the process of data cleaning, model selection and result exploration.
 •	input: NA
 •	output: NA
